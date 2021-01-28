@@ -12,7 +12,7 @@
   "author": "Sathyajit Loganathan",
   "license": "MIT",
   "dependencies": {
-    "electron": "^8.2.1"
+    "electron": "^9.4.0"
   },
   "devDependencies": {
     "electron-packager": "^14.2.1"
